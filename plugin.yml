@@ -1,0 +1,9 @@
+name: MyStaff-JblusItsMe
+main: jblusitsme\mystaff\Main
+version: 1.0.0
+api: 4.6.1
+author: JblusItsMe
+permissions:
+  staff.commands:
+    default: op
+    description: /staff
